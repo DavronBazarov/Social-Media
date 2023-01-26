@@ -1,6 +1,6 @@
 # social_media
 
-[https://github.com/DavronBazarov/Social-Media/issues/1#issue-1557598584](https://user-images.githubusercontent.com/104300528/214755368-92963ecb-b4ac-4980-b3aa-35a62a10c582.mp4
+https://user-images.githubusercontent.com/104300528/214756154-87878574-e976-4697-9f1f-a1df305bdd5b.mp4
 
 )
 
