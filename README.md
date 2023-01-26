@@ -1,6 +1,6 @@
 # social_media
 
-A new Flutter project.
+https://github.com/DavronBazarov/Social-Media/issues/1#issue-1557598584
 
 ## Getting Started
 
